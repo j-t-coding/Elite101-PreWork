@@ -10,3 +10,5 @@ You can add anything here to test it.
 ## This is a new heading Level 1 line
 
 Hello! 
+
+This text is **emphasized*
